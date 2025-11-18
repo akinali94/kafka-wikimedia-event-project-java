@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = 'kafka-wikimedia-event-project-java'
-include('app')
+include('wikimedia-stream')
